@@ -191,5 +191,8 @@ def profile():
     password=password[0][0]
    return render_template("profile.html",nm=nm,email=email,contact=contact,password=password)
 
+
+app.secret_key = ".."
+
 if __name__ == '__main__':
    app.run()

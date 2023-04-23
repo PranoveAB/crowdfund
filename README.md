@@ -4,7 +4,7 @@ This app is deployed on https://crowdfundbmsit.herokuapp.com/
 # Crowdfunding-Portal-Python-Flask-App
 Flask App for CrowdFunding Portal using basic Python, SQLite3, HTML, CSS and Javascript. Users can register and log in to their account. Once logged in, they can make donations to organisation through the web app and display the list of all donations done during the past week.
 
-# Technologies Used
+# Technologies Used to build the project
 <ul>
 <a href="https://flask.palletsprojects.com/en/1.1.x/"><li>Flask</a></li>
 <a href="https://www.python.org/"><li>Python</a></li>  

@@ -14,7 +14,7 @@ if not os.path.isfile('database.db'):
 
 app = Flask(__name__,static_url_path='/assets',
             static_folder='assets', 
-            template_folder='./')
+            template_folder='./static/')
 
 @app.route('/')
 def root():
